@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>289AFC10-952C-45FC-A739-B383078D7A0C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>firstProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4D7C80C765F508C39870DB51112E787140AC27D8</key>
+		<string>https://github.com/100Week-App/tipsyFly.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>firstProject.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4D7C80C765F508C39870DB51112E787140AC27D8</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/100Week-App/tipsyFly.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4D7C80C765F508C39870DB51112E787140AC27D8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4D7C80C765F508C39870DB51112E787140AC27D8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tipsyFly</string>
+		</dict>
+	</array>
+</dict>
+</plist>
